@@ -1,7 +1,5 @@
 # SE_Day1_Assignment
 
-# SE_Day1_Assignment  
-
 ## Part 1: Introduction to Software Engineering  
 
 ### 1. **What is Software Engineering and Its Importance?**  
@@ -107,5 +105,3 @@ Prompt engineering involves crafting inputs (prompts) to guide AI models in gene
 - **Conciseness:** Targets key aspects (scalability and cost-efficiency).  
 
 --- 
-
-This assignment structure ensures both theoretical understanding and practical application of software engineering and AI concepts.
